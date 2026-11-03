@@ -1,4 +1,4 @@
-# Unwoven
+# Unwoven - a recycled denim stool you can build yourself
 
 <img width="4928" height="3264" alt="DSC_5468" src="https://github.com/user-attachments/assets/7909bf8d-48ff-46b5-b37f-3b752a62f368" />
 
